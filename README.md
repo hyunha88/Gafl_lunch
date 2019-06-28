@@ -1,3 +1,6 @@
+// jsoup를 이용한 크롤링 및 파싱
+
+
 package gafl_lunch;
 
 import java.io.IOException;
